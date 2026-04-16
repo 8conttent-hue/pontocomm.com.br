@@ -1,0 +1,53 @@
+{
+  "name": "PONTOCOMM",
+  "slug": "pontocomm.com.br",
+  "description": "Pontocomm é uma agência de comunicação e marketing que nasceu da união de três amigos apaixonados por ideias inovadoras. Juntos, somam mais de 20 anos de experiência no mercado publicitário. Sempre em busca de soluções criativas e ousadas, a Pontocomm se destaca pela capacidade de traduzir os desejos dos clientes em campanhas bem-sucedidas. Com um time multidisciplinar, a agência atua na concepção de campanhas para expandir o alcance e consequentemente as vendas dos nossos clientes.",
+  "url": "https://pontocomm.com.br",
+  "niche": "Educação",
+  "keywords": "Pontocomm e uma agencia de comunicacao e marketing que nasceu da uniao",
+  "email": "contato@pontocomm.com.br",
+  "palette": "slate",
+  "colors": {
+    "primary": "#334155",
+    "accent": "#1e293b",
+    "dark": "#0f172a"
+  },
+  "headerContrast": "dark",
+  "font": "poppins",
+  "fontFamily": "'Poppins', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-I",
+    "hero": "Hero-E",
+    "features": "Features-D",
+    "about": "About-G",
+    "posts": "Posts-G",
+    "footer": "Footer-J",
+    "sobre": "Sobre-C",
+    "contato": "Contato-E"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

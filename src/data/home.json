@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "PONTOCOMM — Transforme Suas Ideias em Resultados",
+    "description": "Na Pontocomm, sua visão ganha vida através de campanhas criativas e impactantes."
+  },
+  "hero": {
+    "title": "Transforme Suas Ideias em Resultados",
+    "subtitle": "Na Pontocomm, sua visão ganha vida através de campanhas criativas e impactantes.",
+    "btnText": "Conheça Nossas Soluções",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Por Que Escolher a Pontocomm?",
+    "items": [
+      {
+        "icon": "🎯",
+        "title": "Experiência Comprovada",
+        "desc": "Mais de 20 anos de know-how em comunicação e marketing."
+      },
+      {
+        "icon": "💡",
+        "title": "Soluções Inovadoras",
+        "desc": "Ideias ousadas que traduzem os desejos dos nossos clientes em resultados efetivos."
+      },
+      {
+        "icon": "🤝",
+        "title": "Equipe Multidisciplinar",
+        "desc": "Um time apaixonado e diversificado pronto para superar suas expectativas."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre a Pontocomm",
+    "desc": "A Pontocomm é uma agência de comunicação e marketing que surgiu da união de três amigos com um sonho em comum: inovar o mercado publicitário. Com um time que combina criatividade e estratégia, estamos sempre em busca da melhor forma de comunicar e expandir o alcance de nossos clientes.",
+    "stats": [
+      {
+        "value": "20+",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "100+",
+        "label": "Campanhas Criadas"
+      },
+      {
+        "value": "50+",
+        "label": "Clientes Satisfeitos"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

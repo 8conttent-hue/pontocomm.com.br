@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o PONTOCOMM"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "A Pontocomm é uma agência de comunicação e marketing que surgiu da união de três amigos com um sonho em comum: inovar o mercado publicitário. Com um time que combina criatividade e estratégia, estamos sempre em busca da melhor forma de comunicar e expandir o alcance de nossos clientes."
+  },
+  "content": "Na Pontocomm, acreditamos que cada projeto é uma oportunidade de contar uma nova história. Nossa missão é conectar marcas às pessoas, utilizando estratégias personalizadas que impulsionem o crescimento e a visibilidade.",
+  "mission": "Transformar ideias em campanhas de marketing memoráveis e bem-sucedidas.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "1.200+",
+      "label": "Artigos"
+    },
+    {
+      "value": "300k+",
+      "label": "Alunos"
+    },
+    {
+      "value": "25",
+      "label": "Professores"
+    }
+  ],
+  "team": []
+}
